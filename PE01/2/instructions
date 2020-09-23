@@ -5,7 +5,7 @@ instructions = [{
   "steps": [" Clean the wall", "Tape the trim",
     "Roll the primer onto the wall",
     "Paint the trim", "Remove the painter's tape"],
-    "tools": ["painter's tape", "primer", "paint", "paint roller",
+  "tools": ["painter's tape", "primer", "paint", "paint roller",
     "paint tray", " paintbrush"],
   "cost": 100,
   "duration": 8
@@ -17,7 +17,7 @@ instructions = [{
   "steps": ["Get a new paper", "Pick up a pencil",
     "Hold the pencil in your arm",
     "Press the pencil on the paper", "Use a eraser"],
-    "tools": ["Paper", "Pencil", "Eraser", "Hand"],
+  "tools": ["Paper", "Pencil", "Eraser", "Hand"],
   "cost": 10,
   "duration": 2
 }
